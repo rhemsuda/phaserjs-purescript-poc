@@ -1,0 +1,6 @@
+dist/
+output/
+node_modules/
+.parcel-cache/
+.spago/
+.psc-ide-port
